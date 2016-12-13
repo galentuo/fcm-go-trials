@@ -1,0 +1,5 @@
+serverkey:
+    "some-server-key"
+gcmids:
+    - "some-fcm-id"
+    - "some-fcm-id"

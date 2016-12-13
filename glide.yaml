@@ -1,0 +1,12 @@
+package: fcm-go-trials
+import:
+- package: github.com/NaySoftware/go-fcm
+- package: github.com/golang/protobuf
+  subpackages:
+  - proto
+- package: golang.org/x/net
+  subpackages:
+  - context
+- package: google.golang.org/grpc
+  version: ^1.0.5
+- package: gopkg.in/yaml.v2
